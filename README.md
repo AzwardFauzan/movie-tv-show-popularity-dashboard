@@ -86,4 +86,7 @@ Dashboard juga dilengkapi filter interaktif berdasarkan **Release Year** dan **G
 
 ## 📌 Hasil
 
-Analisis menunjukkan bahwa tingkat popularitas film dan TV show dipengaruhi oleh beberapa faktor, seperti genre, bahasa, dan tahun rilis. Selain itu, dilakukan analisis statistik untuk mengevaluasi perbedaan rata-rata popularity antara genre **Action** dan **Adventure**. Seluruh hasil analisis divisualisasikan dalam dashboard Tableau sehingga memudahkan eksplorasi data serta mendukung pengambilan keputusan berbasis data.
+Analisis menghasilkan insight mengenai karakteristik film dan TV show yang paling populer berdasarkan genre, bahasa, dan tahun rilis. Dashboard Tableau memungkinkan pengguna mengeksplorasi data secara interaktif melalui filter **Release Year** dan **Genre**, sehingga memudahkan identifikasi tren dan pola popularitas konten.
+
+**📊 Interactive Dashboard:**  
+https://public.tableau.com/views/Milestone2_17805819871920/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
