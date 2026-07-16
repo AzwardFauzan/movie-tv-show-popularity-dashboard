@@ -59,7 +59,7 @@ Dataset yang digunakan pada proyek ini berasal dari Kaggle dan berisi informasi 
 
 **Sumber Dataset:**
 
-- :contentReference[oaicite:0]{index=0}
+- https://www.kaggle.com/datasets/nalisha/netflix-movies-and-tv-shows-data-analysis
 
 **Jumlah Data:**
 - 9.826 baris
